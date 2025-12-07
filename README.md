@@ -1,6 +1,6 @@
 ## RsPlatinum
 
-##What is it?
+## What is it?
 
 I originally built this as a mockup piece of work for a client who wanted a website for their personal business.
 
